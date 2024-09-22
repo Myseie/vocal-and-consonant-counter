@@ -1,0 +1,14 @@
+D:\Programmering\Programmering\vocal and consonant counter\bin\Debug\net8.0\vocal and consonant counter.exe
+D:\Programmering\Programmering\vocal and consonant counter\bin\Debug\net8.0\vocal and consonant counter.deps.json
+D:\Programmering\Programmering\vocal and consonant counter\bin\Debug\net8.0\vocal and consonant counter.runtimeconfig.json
+D:\Programmering\Programmering\vocal and consonant counter\bin\Debug\net8.0\vocal and consonant counter.dll
+D:\Programmering\Programmering\vocal and consonant counter\bin\Debug\net8.0\vocal and consonant counter.pdb
+D:\Programmering\Programmering\vocal and consonant counter\obj\Debug\net8.0\vocal and consonant counter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmering\Programmering\vocal and consonant counter\obj\Debug\net8.0\vocal and consonant counter.AssemblyInfoInputs.cache
+D:\Programmering\Programmering\vocal and consonant counter\obj\Debug\net8.0\vocal and consonant counter.AssemblyInfo.cs
+D:\Programmering\Programmering\vocal and consonant counter\obj\Debug\net8.0\vocal and consonant counter.csproj.CoreCompileInputs.cache
+D:\Programmering\Programmering\vocal and consonant counter\obj\Debug\net8.0\vocal and consonant counter.dll
+D:\Programmering\Programmering\vocal and consonant counter\obj\Debug\net8.0\refint\vocal and consonant counter.dll
+D:\Programmering\Programmering\vocal and consonant counter\obj\Debug\net8.0\vocal and consonant counter.pdb
+D:\Programmering\Programmering\vocal and consonant counter\obj\Debug\net8.0\vocal and consonant counter.genruntimeconfig.cache
+D:\Programmering\Programmering\vocal and consonant counter\obj\Debug\net8.0\ref\vocal and consonant counter.dll

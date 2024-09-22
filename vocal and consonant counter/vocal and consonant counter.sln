@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vocal and consonant counter", "vocal and consonant counter.csproj", "{A61B7A5F-D989-4352-8932-C6D71BBB7F2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A61B7A5F-D989-4352-8932-C6D71BBB7F2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A61B7A5F-D989-4352-8932-C6D71BBB7F2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A61B7A5F-D989-4352-8932-C6D71BBB7F2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A61B7A5F-D989-4352-8932-C6D71BBB7F2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9046B13-6746-463B-968B-26446C53CB0F}
+	EndGlobalSection
+EndGlobal
